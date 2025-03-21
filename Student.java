@@ -1,8 +1,5 @@
 public class Student {
     String firstName;
-}
-
-public class Student {
-    String firstName;
-    int age;
+    String lastName;
+    int age; 
 }
