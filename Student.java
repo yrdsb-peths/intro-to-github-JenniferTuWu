@@ -1,5 +1,6 @@
 public class Student {
-    String firstName;
+    String readLine(firstName);
     String lastName;
-    int age; 
+    int age;
+    
 }
